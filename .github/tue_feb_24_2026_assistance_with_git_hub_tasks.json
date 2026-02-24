@@ -1,0 +1,37 @@
+{
+  "currentUserLogin": "sendtokenwellenterprise-create",
+  "threadUrl": "https://github.com/copilot/c/05d8c5e1-8ef5-4486-bf43-900094951d83",
+  "threadName": "Assistance with GitHub tasks",
+  "messages": [
+    {
+      "id": "root",
+      "role": "user",
+      "createdAt": "",
+      "threadID": "",
+      "references": null
+    },
+    {
+      "id": "29eefbf7-2e3c-4a71-beff-ef6d38e4ba0e",
+      "parentMessageID": "root",
+      "role": "user",
+      "content": ".index.html-get",
+      "createdAt": "2026-02-24T05:36:06.116Z",
+      "threadID": "05d8c5e1-8ef5-4486-bf43-900094951d83",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "25fcb3d2-3dcd-415c-ab77-49b021fbaf4b",
+      "parentMessageID": "29eefbf7-2e3c-4a71-beff-ef6d38e4ba0e",
+      "intent": "conversation",
+      "role": "assistant",
+      "model": "",
+      "content": "I'm ready to help! I can see you've provided today's date (2026-02-24) and your login information (sendtokenwellenterprise-create).\n\nHowever, I don't see a specific question or task you'd like me to help with. Could you please let me know what you'd like to do? For example, I can help you:\n\n- **Search for code** or files in a GitHub repository\n- **Create or modify GitHub issues**\n- **Find information** about repositories, pull requests, or issues\n- **Create or update files** in a repository\n- **Search for GitHub users or organizations**\n- **Answer questions** about GitHub features\n\nWhat would you like assistance with?",
+      "createdAt": "2026-02-24T05:36:09.980961257Z",
+      "threadID": "05d8c5e1-8ef5-4486-bf43-900094951d83",
+      "references": [],
+      "skillExecutions": []
+    }
+  ],
+  "files": {}
+}
